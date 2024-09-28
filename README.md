@@ -1,5 +1,6 @@
 Rock Paper Scissors Game
-A simple Rock Paper Scissors game built using Java (or any other language). This is a console-based game where the user plays against the computer. The game is fun, easy to play, and demonstrates the implementation of basic decision-making logic.
+
+A simple Rock Paper Scissors game built using Kotline. This is a console-based game where the user plays against the computer. The game is fun, easy to play, and demonstrates the implementation of basic decision-making logic.
 
 Table of Contents
 Features
